@@ -3,48 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\bgh46479\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_6324f038aa18f028179ce8e363f9c88aa35cc2db.jar" />
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_f9abac9e5c0108dc0a52ab73ea49b8c7e6a36091.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\bgh46479\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jar="D:\Users\bgh46479\AppData\Local\Android\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_76139f9f211a736f3116e8553ae9d39d55acc286.jar" />
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_47521c08e7c1a161ca95d0828dcde4339c2f18f9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\pdfreader\react-native-fetch-blob\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_a15bb135d4bdc23e699bb78475beb62652f6f334.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5aba90a215b37f466c3ec9452f7494b8d9f5d60c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Users\bgh46479\AppData\Local\Android\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_ed28e511e8ec778558674745940a7aa30973fb3f.jar" />
+        sha1="5aca1188aec5f45a7580589b8537e9a8a4d9a86f">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\pdfreader-react-native-fetch-blob-unspecified_858ce6aa0caf10c0707f29dbf81d721215746a94.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,30 +39,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.49.5\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
-        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.49.5_36ab8bba878ff6641530bbe0630aefe56b52aa6a.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
         <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_708abd69f034e1cf27b72c054d985885fe9d4a7e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_465a7061226a107c2b38640a12ce74340fd244da.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,15 +57,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_c33c054fcb42b8195fcab31f71d2522200b1fa88.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\bgh46479\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -111,12 +66,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_ca68d4a4bd7324f1b6a03ae3601b2774913ad64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
         <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_3ebee60bb0da8c52f64c21e909d31f78c6632172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_21c267b61651165948a1cfd564ed0636eee5eeef.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,12 +111,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_15ea8e615a491e6c82ff323d277310a495590354.jar" />
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_d150b067d367461b326fece4205448623382ee6c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -153,6 +126,114 @@
         revision="23.0.1"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
         <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_290e58532e8f42c7f0122cac01263de8dac8f150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bgh46479\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_fe6b1b1fccc300b3cf308a4f6b6bd4662f9054f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_e7b8ab5395c190026f29998abc9f1ea2b1fb7a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bgh46479\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_6324f038aa18f028179ce8e363f9c88aa35cc2db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bgh46479\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_76139f9f211a736f3116e8553ae9d39d55acc286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.github.barteksc\android-pdf-viewer\2.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="acc7f730a7b9cccfc9251d727165bc37bbb8dd67">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.github.barteksc-android-pdf-viewer-2.7.0_0c5cbacabce32b4c5c9f08ac2ef68442b4a90fd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.github.barteksc\pdfium-android\1.7.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="100c2548728b6c99e002328d3590b750a6afa9e5">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.github.barteksc-pdfium-android-1.7.0_f9402cc7018b666b1dba464d1a0e2edd7add68f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5aba90a215b37f466c3ec9452f7494b8d9f5d60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.49.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.49.5_36ab8bba878ff6641530bbe0630aefe56b52aa6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_465a7061226a107c2b38640a12ce74340fd244da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_c33c054fcb42b8195fcab31f71d2522200b1fa88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_248532714c716229446c336b301885c398c92eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\exploded-aar\pdfreader\react-native-pdf\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7b6bb8afabb4b60f9719d1e233885f315a9c0af">
+        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\pdfreader-react-native-pdf-unspecified_ec0625b3f464f768e37c7636ba0865d9d449ecd9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -171,15 +252,6 @@
         revision="23.0.1"
         sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
         <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_375f303443210a891f8d0510372f43aac2322a0a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\bgh46479\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="D:\my\code\reactnative\pdf-reader\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_fe6b1b1fccc300b3cf308a4f6b6bd4662f9054f6.jar" />
     </item>
     <item
         is-multidex="false"
